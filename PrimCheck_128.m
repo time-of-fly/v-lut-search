@@ -1,7 +1,6 @@
 function [result] = PrimCheck_128(f,t2_128)
-%PRIMPCHECK_U50 此处显示有关此函数的摘要
-%   此处显示详细说明
-%p2=hexToBinaryVector('100000005B');
+
+
 
 p=2;
 n=length(f)-1;
