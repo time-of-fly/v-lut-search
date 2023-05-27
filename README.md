@@ -16,3 +16,9 @@ Part 2: Find all primitive matrices that generated in Part 1. There are 2 steps 
 	Step 2: For each prime factor f of 2d − 1, if  , then the matrix is rejected. All matrices that have passed Step 2 are considered primitive.
 	
 Part 3: Convert primitive matrix T to Verilog code.
+
+
+matlab function: my_minpoly2.m new_primCheck_u50.m 
+
+
+effective when size of matrices are below 50
